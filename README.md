@@ -1,8 +1,9 @@
-Problem Overview:
+Problem Introduction:
 
-RSVP Movies, a distinguished Indian film production company celebrated for its super-hit movies, traditionally targets the Indian audience. 
-However, they are embarking on a new project with plans to release a movie for a global audience.
+RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
-In a pursuit of meticulous and data-driven decision-making, RSVP Movies has sought your assistance as a data analyst and SQL expert.
-Equipped with the dataset encompassing the latest movie releases, your role is to conduct a comprehensive analysis.
-The goal is to discern meaningful patterns and offer strategic insights that will guide RSVP Movies in their forthcoming global cinematic venture.
+
+The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. 
+
+
+The goal is to analyse the given data and give recommendations to RSVP Movies based on the insights. For the convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script given below and to conduct a comprehensive analysis and discern meaningful patterns and offer strategic insights that will guide RSVP Movies in their forthcoming global cinematic venture.
